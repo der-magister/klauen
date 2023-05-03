@@ -1,6 +1,6 @@
 # Klauen
 
-Repo für die ZFX-Action 23'1(Gamedev Jam 14.04.2023 bis 23.04.2023) Gameboy-Spiel Klauen
+Repo for the german ZFX-Action 23'1(Gamedev Jam 14.04.2023 bis 23.04.2023) Gameboy-Game Klauen
 
 https://zfx.info/viewtopic.php?f=55&t=5369
 
